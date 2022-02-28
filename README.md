@@ -10,8 +10,8 @@ My name is Sérgio and I'm an IT professional since 1997<br />
 ## My GitHub stats
 <br />
 <div>  
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sergio-lacerda&show_icons=true&theme=merko"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-lacerda&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587&langs_count=8"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=sergio-lacerda&show_icons=true&theme=merko"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-lacerda&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587&langs_count=8"/>
 </div>
 
 <br />
