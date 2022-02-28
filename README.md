@@ -1,17 +1,18 @@
 # Sérgio Lacerda
 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcy7WnMEtzyNZZBJvRcGpOg) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
+
 <br />
-Hi, welcome to my Github profile!
+Hi, welcome to my GitHub profile!<br />
 My name is Sérgio and I'm an IT professional since 1997<br />
 <br />
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcy7WnMEtzyNZZBJvRcGpOg) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
-
+## My GitHub stats
+<br />
 <div>  
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sergio-lacerda&show_icons=true&theme=merko"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-lacerda&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587&langs_count=8"/>
 </div>
-
 
 <br />
 
