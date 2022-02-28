@@ -3,10 +3,16 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcy7WnMEtzyNZZBJvRcGpOg) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
 
 <br />
-<p>Hi, welcome to my GitHub profile.</p>
+<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png"/> Hi, welcome to my GitHub profile.</p>
 
 <p>My name is Sergio Lacerda.<br />
 I am an IT professional and also a professor working to help new talent become future technology professionals.</p>
+<br />
+
+<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png"/> Olá, bem-vindo ao meu perfil do GitHub.</p>
+
+<p>Meu nome é Sérgio Lacerda.<br /> 
+Sou profissional de TI e também professor trabalhando para ajudar novos talentos a se tornarem futuros profissionais de tecnologia.</p>
 <br />
 
 ## My Activities
