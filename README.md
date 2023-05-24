@@ -25,7 +25,7 @@ Soy profesional de TI y también un profesor. Trabajo para ayudar a los nuevos t
 <br />
 <div>  
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=sergio-lacerda&show_icons=true&theme=merko"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerda&langs_count=8&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587" height="190px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerd&langs_count=8&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587" height="190px"/> 
 </div>
 
 <br />
