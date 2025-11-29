@@ -6,7 +6,7 @@
 🇺🇸 Hey, Devs!
 Welcome to my GitHub profile!
 I'm SL, with over 30 years of experience in software projects and also teaching technical courses in system development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
-
+<br />
 🇧🇷 Fala galera DEV!
 É um prazer receber você no meu perfil do GitHub!
 Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
