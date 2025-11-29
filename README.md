@@ -5,10 +5,11 @@
 <br />
 🇺🇸 Hey, Devs!
 Welcome to my GitHub profile!
-I'm SL, with over 30 years of experience in software projects and also teaching technical courses in system development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
+I'm Sérgio Lacerda, with over 30 years of experience in software projects and also teaching technical courses in software development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
+
 <br />
 🇧🇷 Fala galera DEV!
-É um prazer receber você no meu perfil do GitHub!
+É um prazer receber vocês no meu perfil do GitHub!
 Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
 
 ## My Activities
@@ -24,6 +25,7 @@ Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e 
 
 ### Back-end
 
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
