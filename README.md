@@ -2,15 +2,9 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sergio-lacerda) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
 
-<br />
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="20"/> Hey, Devs!
-Welcome to my GitHub profile!
-I'm Sérgio Lacerda, with over 30 years of experience in software projects and also teaching technical courses in software development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="20" style="display: inline; vertical-align: middle;" /> Hey, Devs! Welcome to my GitHub profile!
 
-<br />
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="20"/> Fala galera DEV!
-É um prazer receber vocês no meu perfil do GitHub!
-Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="20" style="display: inline; vertical-align: middle;" /> Fala galera DEV! É um prazer receber vocês no meu perfil do GitHub!
 
 ## My Activities
 <br />
