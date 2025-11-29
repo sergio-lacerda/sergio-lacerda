@@ -1,25 +1,15 @@
 # Sérgio Lacerda
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcy7WnMEtzyNZZBJvRcGpOg) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-lacerda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sergiolacerda) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sergio-lacerda) [![Website](https://img.shields.io/website?label=sergiolacerda.com.br&style=for-the-badge&url=http://www.sergiolacerda.com.br)](http://www.sergiolacerda.com.br)
 
 <br />
-<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png"/> Olá, bem-vindo ao meu perfil do GitHub.</p>
+🇺🇸 Hey, Devs!
+Welcome to my GitHub profile!
+I'm SL, with over 30 years of experience in software projects and also teaching technical courses in system development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
 
-<p>Meu nome é Sérgio Lacerda.<br /> 
-Sou profissional de TI e também professor trabalhando para ajudar novos talentos a se tornarem futuros profissionais de tecnologia.</p>
-<br />
-
-<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png"/> Hi, welcome to my GitHub profile.</p>
-
-<p>My name is Sergio Lacerda.<br />
-I am an IT professional and also a professor working to help new talent become future technology professionals.</p>
-<br />
-
-<p><img height="12px" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/es.png"/> ¡Hola!, bienvenido a mi perfil de GitHub.</p>
-
-<p>Me llamo Sérgio Lacerda.<br /> 
-Soy profesional de TI y también un profesor. Trabajo para ayudar a los nuevos talentos a convertirse en futuros profesionales de la tecnología.</p>
-<br />
+🇧🇷 Fala galera DEV!
+É um prazer receber você no meu perfil do GitHub!
+Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
 
 ## My Activities
 <br />
