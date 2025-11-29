@@ -4,7 +4,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="20" style="display: inline; vertical-align: middle;" /> Hey, Devs! Welcome to my GitHub profile! I'm Sérgio Lacerda, with over 30 years of experience in software projects and also teaching technical courses in software development. I love thinking outside the box when it comes to coding solutions, and I invite you to explore my repositories — I hope you’ll find something interesting!
 
-<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="20" style="display: inline; vertical-align: middle;" /> Fala galera DEV! É um prazer receber vocês no meu perfil do GitHub! Meu nome é SL, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="20" style="display: inline; vertical-align: middle;" /> Fala galera DEV! É um prazer receber vocês no meu perfil do GitHub! Meu nome é Sérgio Lacerda, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
 
 ## My Activities
 <br />
