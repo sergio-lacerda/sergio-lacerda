@@ -9,8 +9,7 @@
 ## My Activities
 <br />
 <div>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerda&langs_count=7&layout=compact&theme=radical"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerda&langs_count=7&layout=compact&bg_color=212830&title_color=91b302&text_color=68b587" height="190px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerda&langs_count=7&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587" height="190px"/>
 </div>
 
 <br />
