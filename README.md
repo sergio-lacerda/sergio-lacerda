@@ -6,12 +6,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="20" style="display: inline; vertical-align: middle;" /> Fala galera DEV! É um prazer receber vocês no meu perfil do GitHub! Meu nome é Sérgio Lacerda, tenho mais de 30 anos de experiência em projetos de software e também sou professor em cursos técnicos de desenvolvimento de sistemas. Adoro programar soluções fora da caixinha e convido você a explorar meus repositórios — espero que encontre algo interessante!
 
-## My Activities
-<br />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-lacerda&langs_count=7&layout=compact&bg_color=0D1117&title_color=91b302&text_color=68b587" height="190px"/>
-</div>
-
 <br />
 
 ## Hard skills
